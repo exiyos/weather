@@ -5,8 +5,8 @@ body{
   padding: 0;
   margin: 0;
   background: linear-gradient(150deg,#9E8EA1,#6657A2);
-  width: 100w;
-  height: 100vh;
+  width: 100%;
+  height: 100%;
   box-sizing: border-box;
   
 }
