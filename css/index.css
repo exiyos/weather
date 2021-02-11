@@ -139,6 +139,8 @@ position: absolute;
     -moz-animation: AnimationName 29s ease infinite;
     -o-animation: AnimationName 29s ease infinite;
     animation: AnimationName 29s ease infinite;
+  box-sizing: border-box;
+  background-attachment: fixed;
 }
 @-webkit-keyframes AnimationName {
     0%{background-position:69% 0%}
