@@ -7,8 +7,8 @@ body{
   background: linear-gradient(150deg,#9E8EA1,#6657A2);
   width: 100w;
   height: 100vh;
-  overflow: auto;
-  position:fixed;
+  
+  
 }
 
 .container{
