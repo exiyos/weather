@@ -7,9 +7,13 @@ body{
   background: linear-gradient(150deg,#9E8EA1,#6657A2);
   width: 100w;
   height: 100vh;
-  
+  box-sizing: border-box;
   
 }
+
+*{
+  box-sizing:inherit;
+  }
 
 .container{
   width: 100%;
